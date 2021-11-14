@@ -1,6 +1,6 @@
 name: RandomCraft
 main: Main
-version: 0.4-SNAPSHOT
+version: 0.47-SNAPSHOT
 api-version: 1.17
 depend:
   - Kotlin
